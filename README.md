@@ -19,10 +19,6 @@ A customizable and smooth Android wheel selector. Includes `WheelDatePicker`, `W
 
 ![Preview](https://github.com/AigeStudio/WheelPicker/blob/main/Previews/main/Preview.gif)
 
-## Demo
-
-[📱 Download Demo APK](https://github.com/AigeStudio/WheelPicker/blob/main/APK/Demo.apk)
-
 ---
 
 ## 🔧 Setup
