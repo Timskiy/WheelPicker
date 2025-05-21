@@ -1,6 +1,3 @@
----
-
-```markdown
 ![Banner](https://github.com/AigeStudio/WheelPicker/blob/main/Previews/main/Banner.jpg)
 
 > ⚠️ This is a maintained fork of [AigeStudio/WheelPicker](https://github.com/AigeStudio/WheelPicker), published to JitPack under:
@@ -109,8 +106,3 @@ You may obtain a copy of the License at:
 
     http://www.apache.org/licenses/LICENSE-2.0
 ```
-
----
-```
-
----
